@@ -1,3 +1,12 @@
+# This package has moved
+
+  This package has been moved to a new repository:
+
+  **[github.com/hpakdaman/multicarbon](https://github.com/hpakdaman/multicarbon)**
+
+  Please update your references accordingly.
+
+
 # Carbon
 # Hamed & ali
 [![Latest Stable Version](https://poser.pugx.org/nesbot/carbon/v/stable.png)](https://packagist.org/packages/nesbot/carbon)
